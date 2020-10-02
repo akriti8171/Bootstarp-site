@@ -10,7 +10,20 @@
   },
   "author": "",
   "license": "ISC",
-    "devDependencies": {
+  "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akriti8171/git-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akriti8171/git-test/issues"
+  },
+  "homepage": "https://github.com/akriti8171/git-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
